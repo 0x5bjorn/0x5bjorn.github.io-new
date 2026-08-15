@@ -30,5 +30,6 @@ Sharing links to people I admire/respect or in general recommend their content, 
 - [iximiuz labs](https://labs.iximiuz.com/) (DevOps, SRE, and Platform Engineers learning platform)
 - [sadservers](https://sadservers.com/) (Linux & DevOps challenges)
 - [leetcpu](https://www.leetcpu.com/) (playground for exploring and optimizing CPU performance)
+<!-- - [cpp quiz](https://quiz.cpp-perf.com/) -->
 <!-- - [cpu land](https://cpu.land/) -->
 <!-- - [egos](https://egos.fun/) -->

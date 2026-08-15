@@ -10,13 +10,15 @@ techStack = "Docker Swarm, Gitlab CI/CD, Nginx, Java, Spring Boot, Golang, Grafa
     [[info.work.description]]
     point = "Docker Swarm cluster management and maintenance"
     [[info.work.description]]
-    point = "Gitlab CI/CD configuration global refactoring"
+    point = "Tech stack agnostic teamisolated global Gitlab CI/CD configurations development"
     [[info.work.description]]
-    point = "Nginx, Consul, Vault, Grafana, Loki, Promtail configuration and maintenance"
+    point = "Nginx, Consul, Vault, Grafana, Loki, Promtail, RedPanda, Jaeger, Sentry configuration and maintenance"
     [[info.work.description]]
-    point = "Keycloak custom plugin development"
+    point = "Keycloak management and custom plugin development"
     [[info.work.description]]
-    point = "Internal service and library development and maintenance (client certs service, config service, logger library)"
+    point = "Internal tool, service and library development and maintenance"
+    [[info.work.description]]
+    point = "MCP server deployment and maintenance"
 
 # [[info.work]]
 # link = "https://o.kg/"

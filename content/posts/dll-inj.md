@@ -3,7 +3,7 @@ title: "Simple DLL injector with GUI (dll-inj)"
 date: 2023-09-15
 tags: ["in development", "challenge"]
 series: "0x13hrafnulf's Challenges"
-categories: ["cybersecurity"]
+categories: ["Cybersecurity"]
 ---
 
 *in development* [repository](https://github.com/0x5bjorn/dll-inj)
